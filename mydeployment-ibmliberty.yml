@@ -11,4 +11,4 @@ spec:
     spec:
       containers:
       - name: ibmliberty
-        image: registry.DomainName/ibmliberty
+        image: registry.ng.bluemix.net/ibmliberty
